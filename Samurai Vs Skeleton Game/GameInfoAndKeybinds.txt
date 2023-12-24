@@ -1,0 +1,34 @@
+***Game Description***************************** 
+This game was inspired by Zombie VS Samurai. There are two portals on both side of the map. Your task is to defend your portal while trying to destroy the enemy's portal
+as many times as possible. Once you destroy the enemy portal, it revives, spawns a boss, and increases many enemy stats such as troop level and troop spawn rate. You
+get passive income, money for killing enemy troops, and money for destroying enemy portals. Use your money to upgrade troops and spawn troops to defend your portal.
+
+
+***The inputs are***************************** 
+
+***(Camera Control)***
+-arrow keys to move camera
+-L to lock camera
+
+***(Character Control)***
+- A, D LEFT and RIGHT
+- Hold W then A and D for running.
+- S for Blocking or firing arrows
+
+- G, H, and J for attacks
+
+
+***(Selection Control)***
+- Click on character to select them
+- Right mouse button to loop through character list
+- Click and drag rectangle to select multiple characters
+- 1 to 7 button to select entire troop types when you have nothing selected
+
+
+***(Command Control)***
+- 1 to 5 button to choose command for selected troops. 
+
+
+***(Buttons)***
+-Spawn Buttons and upgrade buttons on the bottom 
+-hold Shift to buy quickly 

@@ -1,0 +1,12 @@
+Credit for Assets
+
+* https://ansimuz.itch.io/gothicvania-town 
+  - Background
+  - Props
+
+* https://craftpix.net/freebies/free-skeleton-pixel-art-sprite-sheets/
+  - Skeleton
+* https://craftpix.net/freebies/free-samurai-pixel-art-sprite-sheets/
+  - Samurai
+* https://xyezawr.itch.io/free-pixel-effects-pack-16-mini-blood-splash-2
+  - Blood Splash Visual Effect

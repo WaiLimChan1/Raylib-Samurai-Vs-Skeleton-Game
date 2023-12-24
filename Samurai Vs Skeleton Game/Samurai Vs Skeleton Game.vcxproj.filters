@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Character Files">
+      <UniqueIdentifier>{63954eb7-a978-42f1-8d0c-3d057c6d689f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Character Files\Character Header Files">
+      <UniqueIdentifier>{29ff9318-5edb-4fde-a28f-c0de4f23bfcb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Character Files\Character Source Files">
+      <UniqueIdentifier>{2d8d44d0-a506-40d5-aa85-cbbededc1b4d}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Source.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MyCamera.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Background.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AnimationPro.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Samurai.cpp">
+      <Filter>Character Files\Character Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SamuraiCommander.cpp">
+      <Filter>Character Files\Character Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SwordsMan.cpp">
+      <Filter>Character Files\Character Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Character.cpp">
+      <Filter>Character Files\Character Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SamuraiArcher.cpp">
+      <Filter>Character Files\Character Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Arrow.cpp">
+      <Filter>Character Files\Character Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SkeletonWarrior.cpp">
+      <Filter>Character Files\Character Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SkeletonSpearman.cpp">
+      <Filter>Character Files\Character Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Ranger.cpp">
+      <Filter>Character Files\Character Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SkeletonArcher.cpp">
+      <Filter>Character Files\Character Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Prop.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Effect.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Portal.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Button.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Header.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MyCamera.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Background.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AnimationPro.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Samurai.h">
+      <Filter>Character Files\Character Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SamuraiCommander.h">
+      <Filter>Character Files\Character Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SwordsMan.h">
+      <Filter>Character Files\Character Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Character.h">
+      <Filter>Character Files\Character Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SamuraiArcher.h">
+      <Filter>Character Files\Character Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Arrow.h">
+      <Filter>Character Files\Character Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SkeletonWarrior.h">
+      <Filter>Character Files\Character Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SkeletonSpearman.h">
+      <Filter>Character Files\Character Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Ranger.h">
+      <Filter>Character Files\Character Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SkeletonArcher.h">
+      <Filter>Character Files\Character Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Prop.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Effect.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CharacterStats.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Portal.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Button.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="GameInfoAndKeybinds.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="Credit.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+  </ItemGroup>
+</Project>
